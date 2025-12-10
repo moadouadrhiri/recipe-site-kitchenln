@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>kitchenln</title>
+  <subtitle>greek restaurant</subtitle>
+  <link href="https://kitchenln.example.com/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://kitchenln.example.com" rel="alternate" type="text/html"/>
+  <id>https://kitchenln.example.com/</id>
+  <updated>2025-12-10T08:50:52.499Z</updated>
+  
+  <entry>
+    <title><![CDATA[Authentic Moroccan Tanjia for Family Gatherings - A Culinary Delight!]]></title>
+    <link href="https://kitchenln.example.com/recipe/authentic-moroccan-tanjia-for-family-gatherings-a-culinary-delight" rel="alternate" type="text/html"/>
+    <id>https://kitchenln.example.com/recipe/authentic-moroccan-tanjia-for-family-gatherings-a-culinary-delight</id>
+    <published>2025-12-10T08:50:28.439Z</published>
+    <updated>2025-12-10T08:50:28.439Z</updated>
+    <summary><![CDATA[Discover the rich flavors of Moroccan Tanjia for family gatherings. Perfectly spiced, slow-cooked, and utterly delicious. Try this recipe today!]]></summary>
+    <author>
+      <name>kitchenln</name>
+    </author>
+  </entry>
+</feed>

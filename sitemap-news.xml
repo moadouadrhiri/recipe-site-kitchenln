@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  <url>
+    <loc>https://kitchenln.example.com/recipes/authentic-moroccan-tanjia-for-family-gatherings-a-culinary-delight</loc>
+    <news:news>
+      <news:publication>
+        <news:name>kitchenln</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2025-12-10T08:50:28.439Z</news:publication_date>
+      <news:title>Authentic Moroccan Tanjia for Family Gatherings - A Culinary Delight!</news:title>
+      <news:keywords>Moroccan cuisine, family dinner, slow-cooked, traditional dish, lamb recipe, authentic Moroccan, one-pot meal, easy Moroccan recipes, comfort food, clay pot cooking</news:keywords>
+    </news:news>
+  </url>
+</urlset>

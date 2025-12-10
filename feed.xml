@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>kitchenln</title>
+    <link>https://kitchenln.example.com</link>
+    <description>greek restaurant</description>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 10 Dec 2025 08:50:52 GMT</lastBuildDate>
+    <atom:link href="https://kitchenln.example.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <image>
+      <url>https://kitchenln.example.com/logo.png</url>
+      <title>kitchenln</title>
+      <link>https://kitchenln.example.com</link>
+    </image>
+    
+    <item>
+      <title><![CDATA[Authentic Moroccan Tanjia for Family Gatherings - A Culinary Delight!]]></title>
+      <link>https://kitchenln.example.com/recipe/authentic-moroccan-tanjia-for-family-gatherings-a-culinary-delight</link>
+      <description><![CDATA[Discover the rich flavors of Moroccan Tanjia for family gatherings. Perfectly spiced, slow-cooked, and utterly delicious. Try this recipe today!]]></description>
+      <pubDate>Wed, 10 Dec 2025 08:50:28 GMT</pubDate>
+      <guid isPermaLink="true">https://kitchenln.example.com/recipe/authentic-moroccan-tanjia-for-family-gatherings-a-culinary-delight</guid>
+      <enclosure url="couzintk.site/recipes/hero/992550aa-ab59-49f6-b020-73c9d96c967e.png" type="image/jpeg"/>
+    </item>
+  </channel>
+</rss>
